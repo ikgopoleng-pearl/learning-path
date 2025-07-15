@@ -1,6 +1,6 @@
 # learning-path
 My learning journey to become industry-ready in data analytics, BI, and ML
-#  Learning Path 2025 – Lebang Ikgopoleng
+#  Learning Path 2025 – Pearl Ikgopoleng
 
  **Goal**: Become internship-ready by Jan 2026 in Business Intelligence, Data Analytics & ML  
  **Student**: Business Intelligence & Data Analytics at BAC  
