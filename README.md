@@ -1,14 +1,14 @@
 # learning-path
 My learning journey to become industry-ready in data analytics, BI, and ML
-# 📚 Learning Path 2025 – Lebang Ikgopoleng
+#  Learning Path 2025 – Lebang Ikgopoleng
 
-🎯 **Goal**: Become internship-ready by Jan 2026 in Business Intelligence, Data Analytics & ML  
-🎓 **Student**: Business Intelligence & Data Analytics at BAC  
-💼 **Target Companies**: FNBB, BURS, Spectrum Analytics, NDB
+ **Goal**: Become internship-ready by Jan 2026 in Business Intelligence, Data Analytics & ML  
+ **Student**: Business Intelligence & Data Analytics at BAC  
+ **Target Companies**: FNBB, BURS, Spectrum Analytics, NDB
 
 ---
 
-## 🗓️ Timeline: July – December 2025
+## Timeline: July – December 2025
 
 | Month | Focus |
 |-------|-------|
@@ -21,7 +21,7 @@ My learning journey to become industry-ready in data analytics, BI, and ML
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - `/kaggle`: Kaggle notebooks and badges
 - `/projects`: Main portfolio projects
@@ -31,7 +31,7 @@ My learning journey to become industry-ready in data analytics, BI, and ML
 
 ---
 
-## 🧠 Skills Being Built
+##  Skills Being Built
 
 - Python (Pandas, Scikit-learn)
 - SQL (Joins, CTEs, Window Functions)
