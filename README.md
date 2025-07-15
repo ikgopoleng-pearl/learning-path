@@ -4,8 +4,6 @@ My learning journey to become industry-ready in data analytics, BI, and ML
 
  **Goal**: Become internship-ready by Jan 2026 in Business Intelligence, Data Analytics & ML  
  **Student**: Business Intelligence & Data Analytics at BAC  
- **Target Companies**: FNBB, BURS, Spectrum Analytics, NDB
-
 ---
 
 ## Timeline: July – December 2025
